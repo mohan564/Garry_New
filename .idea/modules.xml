@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Garry.iml" filepath="$PROJECT_DIR$/.idea/Garry.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\Hp-\Documents\GitHub\Garry\app\app.iml" filepath="C:\Users\Hp-\Documents\GitHub\Garry\app\app.iml" />
       <module fileurl="file://C:\Users\Hp-\Documents\GitHub\Garry\asyncTask.iml" filepath="C:\Users\Hp-\Documents\GitHub\Garry\asyncTask.iml" />
     </modules>
   </component>
